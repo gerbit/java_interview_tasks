@@ -1,5 +1,3 @@
-package me.gerbit.interview.reverselinkedlist;
-
 public class Node {
     private int i;
 
