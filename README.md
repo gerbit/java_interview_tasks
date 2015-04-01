@@ -1,1 +1,3 @@
-# java_interview_tasks
+# Java Interview Tasks
+
+1. Reverse single linked list - Yandex Skype interview
